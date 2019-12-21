@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  test-iomanip.cpp
+c:\users\13607\source\repos\test-iomanip\test-iomanip\test-iomanip.cpp(12): warning C4305: “初始化”: 从“double”到“float”截断
+c:\users\13607\source\repos\test-iomanip\test-iomanip\test-iomanip.cpp(15): warning C4305: “初始化”: 从“double”到“float”截断
+c:\users\13607\source\repos\test-iomanip\test-iomanip\test-iomanip.cpp(16): warning C4305: “初始化”: 从“int”到“bool”截断
+  test-iomanip.vcxproj -> C:\Users\13607\source\repos\test-iomanip\Debug\test-iomanip.exe

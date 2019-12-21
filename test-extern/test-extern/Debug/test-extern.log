@@ -1,0 +1,3 @@
+﻿  extern.cpp
+c:\users\13607\source\repos\test-extern\test-extern\extern.cpp(3): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  test-extern.vcxproj -> C:\Users\13607\source\repos\test-extern\Debug\test-extern.exe

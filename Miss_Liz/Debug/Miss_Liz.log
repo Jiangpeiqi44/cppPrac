@@ -1,0 +1,6 @@
+﻿  Miss_Liz.cpp
+C:\Users\13607\source\repos\Miss_Liz\Miss_Liz.cpp(6,8): warning C4101: “stay”: 未引用的局部变量
+C:\Users\13607\source\repos\Miss_Liz\Miss_Liz.cpp(5,11): warning C4101: “letter”: 未引用的局部变量
+C:\Users\13607\source\repos\Miss_Liz\Miss_Liz.cpp(4,9): warning C4101: “world”: 未引用的局部变量
+C:\Users\13607\source\repos\Miss_Liz\Miss_Liz.cpp(7,7): warning C4101: “memories”: 未引用的局部变量
+  Miss_Liz.vcxproj -> C:\Users\13607\source\repos\Miss_Liz\Debug\Miss_Liz.exe
